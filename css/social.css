@@ -137,7 +137,7 @@ a:active {
 }
 
  a.github-small{
-    background:#2CA9E1 url("github.png") no-repeat center center;
+    background:#2CA9E1 url("../images/github.png") no-repeat center center;
     -webkit-box-shadow: 0px 6px 0px #2695BC;
     -moz-box-shadow: 0px 6px 0px #2695BC;
     box-shadow: 0px 6px 0px #2695BC;
@@ -150,7 +150,7 @@ a:active {
     box-shadow: 0px 2px 0px #2695BC;
 }
 a.linkedin-small{
-    background:#2CA9E1 url("linkedin.png") no-repeat center center;
+    background:#2CA9E1 url("../images/linkedin.png") no-repeat center center;
     -webkit-box-shadow: 0px 6px 0px #0489B1;
     -moz-box-shadow: 0px 6px 0px #0489B1;
     box-shadow: 0px 6px 0px #0489B1;
@@ -163,7 +163,7 @@ a.linkedin-small:active{ -webkit-box-shadow: 0px 2px 0px #0489B1;
 }
 
 a.google-small{
-    background:#2CA9E1 url("google.png") no-repeat center center;
+    background:#2CA9E1 url("../images/google.png") no-repeat center center;
     -webkit-box-shadow: 0px 6px 0px #CB3C1F;
     -moz-box-shadow: 0px 6px 0px #CB3C1F;
     box-shadow: 0px 6px 0px #CB3C1F;
@@ -175,7 +175,7 @@ a.google-small:active{ -webkit-box-shadow: 0px 2px 0px #CB3C1F;
     box-shadow: 0px 2px 0px #CB3C1F;
 }
  a.insta-small{
-    background:#2CA9E1 url("insta.gif") no-repeat center center;
+    background:#2CA9E1 url("../images/insta.gif") no-repeat center center;
     -webkit-box-shadow: 0px 6px 0px #744C24;
     -moz-box-shadow: 0px 6px 0px #744C24;
     box-shadow: 0px 6px 0px #744C24;
