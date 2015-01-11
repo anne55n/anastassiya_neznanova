@@ -232,7 +232,7 @@ hr{
 p{
     margin-left: 5%;
     margin-right: 5%;
-    font-size:17px;
+    font-size:20px;
     font-family: 'Oxygen', sans-serif;
 }
 a{
@@ -242,7 +242,7 @@ a{
     margin-top: 7%;
     margin-left: 5%;
     margin-right: 5%;
-    font-size:17px;
+    font-size:20px;
     font-family: 'Oxygen', sans-serif;
 }
 #list1{
@@ -250,7 +250,7 @@ a{
 }
 #work{
     margin-left: 5%;
-    font-size:20px;
+    font-size:25px;
     font-family: 'Oxygen', sans-serif; 
     color: #3B240B;
 }
