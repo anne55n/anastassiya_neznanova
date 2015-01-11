@@ -8,7 +8,7 @@ html{
 #main{
 
     width:890px;
-    height:1070px;
+    height:1090px;
     margin:3px auto 50px auto;
     text-align:left;
     background-color: #E0F8F1;
@@ -122,39 +122,39 @@ hr{
 }
 #me{
   font-family: 'Lora', serif;
-  font-size:20px;
+  font-size:25px;
 }
 #star{
-  font-size: 17px;
+  font-size: 20px;
   color: #5F4C0B;
 }
 #about{
   margin-left: 5%;
   margin-right: 5%;
   font-family: 'Dosis', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   color: #2A1B0A;
 }
 h2{
   margin-left: 5%;
   margin-right: 5%;
   font-family: 'Dosis', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
   color: #2A120A;
 }
 #list1{
   margin-left: 8%;
   font-family: 'Dosis', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
 }
 #list2{
   margin-left: 8%;
   margin-right: 5%;
   font-family: 'Dosis', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
 }
 span{
-  font-size: 17px;
+  font-size: 20px;
   color: black;
   font-family: 'Dosis', sans-serif;
 }
