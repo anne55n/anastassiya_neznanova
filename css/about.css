@@ -1,12 +1,14 @@
 html{
-    background: url(../images/bridge.jpg) no-repeat center center fixed; 
+    background: url(../images/bridge.jpg) 50% no-repeat; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-size: contain
 
 }
 #main{
+     max-width:100%
     background-color: #E0F8F1;
     width:63%;
     height:108%;
@@ -19,6 +21,7 @@ html{
     box-shadow: 10px 10px 5px #888888;
 }
 #me{
+  max-width: 100%
   width:170px; 
   margin-top:-75%;
   margin-left: 30px;
