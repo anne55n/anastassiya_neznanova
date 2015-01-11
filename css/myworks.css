@@ -225,6 +225,7 @@ html{
 h1{
     font-size:30px;
     font-family: 'Lobster', cursive;
+    margin-top:5%;
 }
 hr{
     width:40%;
