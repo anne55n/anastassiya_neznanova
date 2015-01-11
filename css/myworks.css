@@ -9,11 +9,10 @@ html{
 #main{
 
     background-color: #E0F8F1;
-   width:904px;
-	padding:25px;
-
-	margin:50px auto 50px auto;
-	text-align:left;
+    width:904px;
+    padding:25px;
+    margin:50px auto 50px auto;
+    text-align:left;
     border-radius: 5px;
     border-style: inset;
     border-color: #A9F5F2;
