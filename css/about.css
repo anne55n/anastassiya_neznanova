@@ -6,7 +6,7 @@ html{
     background-size: cover;
 }
 @media only screen and (orientation: landscape) {
-.main {
+#main {
  height: 100%;
  text-align: center;
 }
