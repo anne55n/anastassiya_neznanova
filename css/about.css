@@ -4,9 +4,8 @@ html{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-size: contain
-
 }
+
 #main{
     width:904px;
     height:1008px;
