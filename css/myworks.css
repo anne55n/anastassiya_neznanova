@@ -10,7 +10,7 @@ html{
 
     background-color: #E0F8F1;
     width:904px;
-    height:1020px;
+    height:1050px;
     margin:3px auto 50px auto;
     text-align:left;
     border-radius: 5px;
@@ -218,7 +218,7 @@ html{
     -moz-transition: opacity .2s;
     -o-transition: opacity .2s;
     transition: opacity .2s;
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Raleway', sans-serif;
     color: #3B0B39;
 }
@@ -255,6 +255,9 @@ a{
     font-family: 'Oxygen', sans-serif; 
     color: #3B240B;
 }
-p{
- font-size:20px;    
+#links{
+    font-size:12px;    
+}
+li{
+    font-size:20px;   
 }
