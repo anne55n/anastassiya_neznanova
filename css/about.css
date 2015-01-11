@@ -5,8 +5,12 @@ html{
     -o-background-size: cover;
     background-size: cover;
 }
+@media only screen and (orientation: landscape) {
+#main {
+ height: 100%;
+ text-align: center;
+}
 #main{
-
     background-color: #E0F8F1;
     width:63%;
     height:108%;
