@@ -8,6 +8,9 @@ html{
 
 body{
     min-width:904px;
+    margin:0;
+	padding:0;
+	border:0;
 }
 
 #main{
