@@ -189,11 +189,11 @@ html{
 .slider input[type=radio]#control4:checked~label[for=control4] { background-color: #00BFFF; }
 .slider input[type=radio]#control5:checked~label[for=control5] { background-color: #00BFFF; }
 
-.slider label[for=control1] { margin-left: -82px }
-.slider label[for=control2] { margin-left: -41px }
+.slider label[for=control1] { margin-left: -88px }
+.slider label[for=control2] { margin-left: -44px }
 .slider label[for=control3] { margin-left:   0px }
-.slider label[for=control4] { margin-left: 41px }
-.slider label[for=control5] { margin-left: 82px }
+.slider label[for=control4] { margin-left: 44px }
+.slider label[for=control5] { margin-left: 88px }
 
 .slider input[type=radio]#control1:checked~.sliderinner>ul { left: 0 }
 .slider input[type=radio]#control2:checked~.sliderinner>ul { left: -100% }
