@@ -139,7 +139,7 @@ hr{
     width: 40%;
 }
 #about{
-margin-left: 100px;
+margin-left: 125px;
 margin-right: 45px;
 font-family: 'Raleway', sans-serif;
 }
@@ -150,6 +150,7 @@ margin-right: 45px;
 font-family: 'Raleway', sans-serif;
 }
 ul{
- margin-left: 275px;
+ margin-left: 100px;
+ margin-right: 45px;
 font-family: 'Raleway', sans-serif;   
 }
