@@ -165,7 +165,7 @@ html{
 .slider label {
     position: absolute;
     left: 50%;
-    bottom: -45px;
+    bottom: -65px;
     z-index: 100;
     width: 25px;
     height: 25px;
