@@ -10,7 +10,7 @@ html{
 
     background-color: #E0F8F1;
     width:890px;
-    height:1100px;
+    height:1400px;
     margin:3px auto 50px auto; 
     text-align:left;
     border-radius: 5px;
@@ -19,6 +19,17 @@ html{
     opacity: 0.94;
     filter: alpha(opacity=40);
     box-shadow: 10px 10px 5px #888888;
+}
+
+#me{
+  width:170px; 
+  margin-top:-126%;
+  margin-left: 45px;
+  border-style: outset;
+  border-width: 3px;
+  border-color: #81DAF5;
+  vertical-align:middle;
+  display: block;
 }
 
 * {
@@ -108,20 +119,10 @@ html{
 #navigation span:after {
   content: '';
   width: 0;
-  height: 25px;
+  height: 35px;
   position: absolute; left: 50%; top: 0%;
   -webkit-box-shadow: 0 0 120px 30px rgba(255, 255, 255, 1);
   z-index: -1;
-}
-#me{
-  width:170px; 
-  margin-top:-126%;
-  margin-left: 45px;
-  border-style: outset;
-  border-width: 3px;
-  border-color: #81DAF5;
-  vertical-align:middle;
-  display: block;
 }
 
 h1{
