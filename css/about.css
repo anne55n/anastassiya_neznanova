@@ -1,5 +1,5 @@
 html{
-    background: url(..images/bridge.jpg) no-repeat center center fixed; 
+    background: url(.../images/bridge.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -131,7 +131,8 @@ html{
   color: #5F4C0B;
 }
 h1{
-    font-size:30px;
+    margin-top:3%;
+    font-size:40px;
     font-family: 'Lobster', cursive;
 }
 hr{
