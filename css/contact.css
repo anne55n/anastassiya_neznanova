@@ -6,6 +6,10 @@ html{
     background-size: cover;
 }
 
+body{
+    min-width:904px;
+}
+
 #main{
 
     background-color: #E0F8F1;
