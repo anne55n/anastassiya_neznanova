@@ -8,7 +8,7 @@ html{
 
 #main{
     width:890px;
-    height:900px;
+    height:1400px;
     margin:3px auto -50px auto;
     text-align:left;
     background-color: #E0F8F1;
@@ -132,8 +132,9 @@ html{
   color: #5F4C0B;
 }
 h1{
-    font-size:30px;
+    font-size:40px;
     font-family: 'Lobster', cursive;
+    margin-top:3%;
 }
 hr{
     width: 40%;
