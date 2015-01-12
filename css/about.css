@@ -52,7 +52,7 @@ html{
   text-decoration: none;
   font-size: 16px;
   text-align: center;
-  width: 120px;
+  width: 100px;
   color: #fff;
   text-shadow: 1px 1px #999;
   position: relative;
@@ -141,18 +141,18 @@ hr{
 #about{
 margin-left: 245px;
 font-family: 'Raleway', sans-serif;
-font-size:22px;
+font-size:18px;
 }
 
 .about1{
 margin-left: 25px;
 margin-right: 25px;
 font-family: 'Raleway', sans-serif;
-font-size:22px;
+font-size:18px;
 }
 ul{
  margin-left: 100px;
  margin-right: 25px;
 font-family: 'Raleway', sans-serif;
-font-size:22px;
+font-size:18px;
 }
