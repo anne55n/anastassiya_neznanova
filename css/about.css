@@ -5,18 +5,19 @@ html{
     -o-background-size: cover;
     background-size: cover;
 }
+
 #main{
 
-    width:890px;
-    height:1400px;
-    margin:3px auto 50px auto;
-    text-align:left;
     background-color: #E0F8F1;
+    width:890px;
+    height:1100px;
+    margin:3px auto 50px auto; 
+    text-align:left;
     border-radius: 5px;
     border-style: inset;
     border-color: #A9F5F2;
-    opacity: 0.9;
-    filter: alpha(opacity=10);
+    opacity: 0.94;
+    filter: alpha(opacity=40);
     box-shadow: 10px 10px 5px #888888;
 }
 
@@ -112,10 +113,7 @@ html{
   -webkit-box-shadow: 0 0 120px 30px rgba(255, 255, 255, 1);
   z-index: -1;
 }
-#me{
-  font-family: 'Lora', serif;
-  font-size:20px;
-}
+
 #me{
   width:170px; 
   margin-top:-126%;
