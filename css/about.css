@@ -113,6 +113,10 @@ html{
   z-index: -1;
 }
 #me{
+  font-family: 'Lora', serif;
+  font-size:20px;
+}
+#me{
   width:170px; 
   margin-top:-126%;
   margin-left: 45px;
@@ -122,7 +126,6 @@ html{
   vertical-align:middle;
   display: block;
 }
-
 
 #star{
   font-size: 17px;
