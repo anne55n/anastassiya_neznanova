@@ -124,6 +124,17 @@ html{
   z-index: -1;
 }
 #me{
+  width:170px; 
+  margin-top:-126%;
+  margin-left: 45px;
+  border-style: outset;
+  border-width: 3px;
+  border-color: #81DAF5;
+  vertical-align:middle;
+  display: block;
+}
+
+#me{
   font-family: 'Lora', serif;
   font-size:20px;
 }
