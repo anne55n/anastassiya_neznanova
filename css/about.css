@@ -140,19 +140,22 @@ hr{
     width: 40%;
 }
 #about{
-margin-left: 245px;
-font-family: 'Raleway', sans-serif;
-font-size:20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-left: 245px;
+    font-family: 'Raleway', sans-serif;
+    font-size:18px;
 }
 
 .about1{
-margin-left: 25px;
-margin-right: 25px;
-font-family: 'Raleway', sans-serif;
-font-size:20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-size:18px;
 }
 ul{
- margin-left: 275px;
-font-family: 'Raleway', sans-serif;   
-font-size:20px;
+    margin-right: 25px;
+    margin-left: 275px;
+    font-family: 'Raleway', sans-serif;   
+    font-size:18px;
 }
