@@ -23,7 +23,8 @@ html{
 
 
 #me{
-  width:170px; 
+  width:170px;
+  height:300px;
   margin-top:-126%;
   margin-left: 30px;
   border-style: outset;
