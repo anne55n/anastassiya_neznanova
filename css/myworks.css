@@ -10,7 +10,7 @@ html{
 
     background-color: #E0F8F1;
     width:890px;
-    height:1400px;
+    height:1480px;
     margin:3px auto 50px auto;
     text-align:left;
     border-radius: 5px;
@@ -248,6 +248,9 @@ a{
     font-family: 'Oxygen', sans-serif;
 }
 #list1{
+    margin-left: 8%;
+}
+#list2{
     margin-left: 8%;
 }
 #work{
